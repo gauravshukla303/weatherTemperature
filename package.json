@@ -4,7 +4,7 @@
   "description": "this program will output current time and weather of the given location as per its pin code",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "npm install",
     "start": "index.js"
   },
   "author": "gauravshukla",
