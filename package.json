@@ -1,0 +1,16 @@
+{
+  "name": "timenweather",
+  "version": "1.0.0",
+  "description": "this program will output current time and weather of the given location as per its pin code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "gauravshukla",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "request": "^2.88.0"
+  }
+}
